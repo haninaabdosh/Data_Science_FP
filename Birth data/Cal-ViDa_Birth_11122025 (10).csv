@@ -1,0 +1,406 @@
+Type_of_Event,Year_of_Birth,Residence_or_Place_of_Birth,ZIP_Code_of_Residence,Birthweight_Grams,Total_Births,Last_Data_Refresh
+Birth,2022,Place of Residence,91101,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91101,1000 - 1499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91101,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91101,2000 - 2499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91101,2500 - 2999 grams,50,11/10/2025
+Birth,2022,Place of Residence,91101,3000 - 3499 grams,82,11/10/2025
+Birth,2022,Place of Residence,91101,3500 - 3999 grams,44,11/10/2025
+Birth,2022,Place of Residence,91101,4000 - 5999 grams,11,11/10/2025
+Birth,2022,Place of Residence,91101,Unreliable/Unknown,<11,11/10/2025
+Birth,2022,Place of Residence,91103,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91103,1000 - 1499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91103,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91103,2000 - 2499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91103,2500 - 2999 grams,57,11/10/2025
+Birth,2022,Place of Residence,91103,3000 - 3499 grams,115,11/10/2025
+Birth,2022,Place of Residence,91103,3500 - 3999 grams,56,11/10/2025
+Birth,2022,Place of Residence,91103,4000 - 5999 grams,17,11/10/2025
+Birth,2022,Place of Residence,91103,Unreliable/Unknown,0,11/10/2025
+Birth,2022,Place of Residence,91104,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91104,1000 - 1499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91104,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91104,2000 - 2499 grams,15,11/10/2025
+Birth,2022,Place of Residence,91104,2500 - 2999 grams,72,11/10/2025
+Birth,2022,Place of Residence,91104,3000 - 3499 grams,130,11/10/2025
+Birth,2022,Place of Residence,91104,3500 - 3999 grams,105,11/10/2025
+Birth,2022,Place of Residence,91104,4000 - 5999 grams,23,11/10/2025
+Birth,2022,Place of Residence,91104,Unreliable/Unknown,<11,11/10/2025
+Birth,2022,Place of Residence,91105,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91105,1000 - 1499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91105,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91105,2000 - 2499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91105,2500 - 2999 grams,18,11/10/2025
+Birth,2022,Place of Residence,91105,3000 - 3499 grams,46,11/10/2025
+Birth,2022,Place of Residence,91105,3500 - 3999 grams,27,11/10/2025
+Birth,2022,Place of Residence,91105,4000 - 5999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91105,Unreliable/Unknown,0,11/10/2025
+Birth,2022,Place of Residence,91106,500 - 999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91106,1000 - 1499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91106,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91106,2000 - 2499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91106,2500 - 2999 grams,45,11/10/2025
+Birth,2022,Place of Residence,91106,3000 - 3499 grams,88,11/10/2025
+Birth,2022,Place of Residence,91106,3500 - 3999 grams,59,11/10/2025
+Birth,2022,Place of Residence,91106,4000 - 5999 grams,14,11/10/2025
+Birth,2022,Place of Residence,91106,Unreliable/Unknown,0,11/10/2025
+Birth,2022,Place of Residence,91107,500 - 999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91107,1000 - 1499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91107,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91107,2000 - 2499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91107,2500 - 2999 grams,49,11/10/2025
+Birth,2022,Place of Residence,91107,3000 - 3499 grams,112,11/10/2025
+Birth,2022,Place of Residence,91107,3500 - 3999 grams,78,11/10/2025
+Birth,2022,Place of Residence,91107,4000 - 5999 grams,21,11/10/2025
+Birth,2022,Place of Residence,91107,Unreliable/Unknown,<11,11/10/2025
+Birth,2022,Place of Residence,91108,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91108,1000 - 1499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91108,1500 - 1999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91108,2000 - 2499 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91108,2500 - 2999 grams,17,11/10/2025
+Birth,2022,Place of Residence,91108,3000 - 3499 grams,32,11/10/2025
+Birth,2022,Place of Residence,91108,3500 - 3999 grams,18,11/10/2025
+Birth,2022,Place of Residence,91108,4000 - 5999 grams,<11,11/10/2025
+Birth,2022,Place of Residence,91108,Unreliable/Unknown,0,11/10/2025
+Birth,2022,Place of Residence,91125,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,1000 - 1499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,1500 - 1999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,2000 - 2499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,2500 - 2999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,3000 - 3499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,3500 - 3999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,4000 - 5999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91125,Unreliable/Unknown,0,11/10/2025
+Birth,2022,Place of Residence,91126,500 - 999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,1000 - 1499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,1500 - 1999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,2000 - 2499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,2500 - 2999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,3000 - 3499 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,3500 - 3999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,4000 - 5999 grams,0,11/10/2025
+Birth,2022,Place of Residence,91126,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91101,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91101,1000 - 1499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91101,1500 - 1999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91101,2000 - 2499 grams,11,11/10/2025
+Birth,2021,Place of Residence,91101,2500 - 2999 grams,49,11/10/2025
+Birth,2021,Place of Residence,91101,3000 - 3499 grams,86,11/10/2025
+Birth,2021,Place of Residence,91101,3500 - 3999 grams,57,11/10/2025
+Birth,2021,Place of Residence,91101,4000 - 5999 grams,22,11/10/2025
+Birth,2021,Place of Residence,91101,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91103,500 - 999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91103,1000 - 1499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91103,1500 - 1999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91103,2000 - 2499 grams,18,11/10/2025
+Birth,2021,Place of Residence,91103,2500 - 2999 grams,52,11/10/2025
+Birth,2021,Place of Residence,91103,3000 - 3499 grams,102,11/10/2025
+Birth,2021,Place of Residence,91103,3500 - 3999 grams,61,11/10/2025
+Birth,2021,Place of Residence,91103,4000 - 5999 grams,14,11/10/2025
+Birth,2021,Place of Residence,91103,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91104,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91104,1000 - 1499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91104,1500 - 1999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91104,2000 - 2499 grams,13,11/10/2025
+Birth,2021,Place of Residence,91104,2500 - 2999 grams,63,11/10/2025
+Birth,2021,Place of Residence,91104,3000 - 3499 grams,149,11/10/2025
+Birth,2021,Place of Residence,91104,3500 - 3999 grams,100,11/10/2025
+Birth,2021,Place of Residence,91104,4000 - 5999 grams,21,11/10/2025
+Birth,2021,Place of Residence,91104,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91105,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91105,1000 - 1499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91105,1500 - 1999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91105,2000 - 2499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91105,2500 - 2999 grams,20,11/10/2025
+Birth,2021,Place of Residence,91105,3000 - 3499 grams,53,11/10/2025
+Birth,2021,Place of Residence,91105,3500 - 3999 grams,35,11/10/2025
+Birth,2021,Place of Residence,91105,4000 - 5999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91105,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91106,500 - 999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91106,1000 - 1499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91106,1500 - 1999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91106,2000 - 2499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91106,2500 - 2999 grams,58,11/10/2025
+Birth,2021,Place of Residence,91106,3000 - 3499 grams,103,11/10/2025
+Birth,2021,Place of Residence,91106,3500 - 3999 grams,59,11/10/2025
+Birth,2021,Place of Residence,91106,4000 - 5999 grams,12,11/10/2025
+Birth,2021,Place of Residence,91106,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91107,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91107,1000 - 1499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91107,1500 - 1999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91107,2000 - 2499 grams,18,11/10/2025
+Birth,2021,Place of Residence,91107,2500 - 2999 grams,69,11/10/2025
+Birth,2021,Place of Residence,91107,3000 - 3499 grams,130,11/10/2025
+Birth,2021,Place of Residence,91107,3500 - 3999 grams,89,11/10/2025
+Birth,2021,Place of Residence,91107,4000 - 5999 grams,17,11/10/2025
+Birth,2021,Place of Residence,91107,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91108,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91108,1000 - 1499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91108,1500 - 1999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91108,2000 - 2499 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91108,2500 - 2999 grams,14,11/10/2025
+Birth,2021,Place of Residence,91108,3000 - 3499 grams,31,11/10/2025
+Birth,2021,Place of Residence,91108,3500 - 3999 grams,19,11/10/2025
+Birth,2021,Place of Residence,91108,4000 - 5999 grams,<11,11/10/2025
+Birth,2021,Place of Residence,91108,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91125,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,1000 - 1499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,1500 - 1999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,2000 - 2499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,2500 - 2999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,3000 - 3499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,3500 - 3999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,4000 - 5999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91125,Unreliable/Unknown,0,11/10/2025
+Birth,2021,Place of Residence,91126,500 - 999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,1000 - 1499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,1500 - 1999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,2000 - 2499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,2500 - 2999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,3000 - 3499 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,3500 - 3999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,4000 - 5999 grams,0,11/10/2025
+Birth,2021,Place of Residence,91126,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91101,500 - 999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91101,1000 - 1499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91101,1500 - 1999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91101,2000 - 2499 grams,12,11/10/2025
+Birth,2020,Place of Residence,91101,2500 - 2999 grams,51,11/10/2025
+Birth,2020,Place of Residence,91101,3000 - 3499 grams,95,11/10/2025
+Birth,2020,Place of Residence,91101,3500 - 3999 grams,53,11/10/2025
+Birth,2020,Place of Residence,91101,4000 - 5999 grams,11,11/10/2025
+Birth,2020,Place of Residence,91101,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91103,500 - 999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91103,1000 - 1499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91103,1500 - 1999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91103,2000 - 2499 grams,14,11/10/2025
+Birth,2020,Place of Residence,91103,2500 - 2999 grams,58,11/10/2025
+Birth,2020,Place of Residence,91103,3000 - 3499 grams,102,11/10/2025
+Birth,2020,Place of Residence,91103,3500 - 3999 grams,78,11/10/2025
+Birth,2020,Place of Residence,91103,4000 - 5999 grams,22,11/10/2025
+Birth,2020,Place of Residence,91103,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91104,500 - 999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91104,1000 - 1499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91104,1500 - 1999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91104,2000 - 2499 grams,12,11/10/2025
+Birth,2020,Place of Residence,91104,2500 - 2999 grams,55,11/10/2025
+Birth,2020,Place of Residence,91104,3000 - 3499 grams,122,11/10/2025
+Birth,2020,Place of Residence,91104,3500 - 3999 grams,91,11/10/2025
+Birth,2020,Place of Residence,91104,4000 - 5999 grams,26,11/10/2025
+Birth,2020,Place of Residence,91104,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91105,500 - 999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91105,1000 - 1499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91105,1500 - 1999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91105,2000 - 2499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91105,2500 - 2999 grams,16,11/10/2025
+Birth,2020,Place of Residence,91105,3000 - 3499 grams,47,11/10/2025
+Birth,2020,Place of Residence,91105,3500 - 3999 grams,24,11/10/2025
+Birth,2020,Place of Residence,91105,4000 - 5999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91105,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91106,500 - 999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91106,1000 - 1499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91106,1500 - 1999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91106,2000 - 2499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91106,2500 - 2999 grams,55,11/10/2025
+Birth,2020,Place of Residence,91106,3000 - 3499 grams,104,11/10/2025
+Birth,2020,Place of Residence,91106,3500 - 3999 grams,65,11/10/2025
+Birth,2020,Place of Residence,91106,4000 - 5999 grams,15,11/10/2025
+Birth,2020,Place of Residence,91106,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91107,500 - 999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91107,1000 - 1499 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91107,1500 - 1999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91107,2000 - 2499 grams,11,11/10/2025
+Birth,2020,Place of Residence,91107,2500 - 2999 grams,63,11/10/2025
+Birth,2020,Place of Residence,91107,3000 - 3499 grams,114,11/10/2025
+Birth,2020,Place of Residence,91107,3500 - 3999 grams,76,11/10/2025
+Birth,2020,Place of Residence,91107,4000 - 5999 grams,21,11/10/2025
+Birth,2020,Place of Residence,91107,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91108,500 - 999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91108,1000 - 1499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91108,1500 - 1999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91108,2000 - 2499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91108,2500 - 2999 grams,11,11/10/2025
+Birth,2020,Place of Residence,91108,3000 - 3499 grams,26,11/10/2025
+Birth,2020,Place of Residence,91108,3500 - 3999 grams,18,11/10/2025
+Birth,2020,Place of Residence,91108,4000 - 5999 grams,<11,11/10/2025
+Birth,2020,Place of Residence,91108,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91125,500 - 999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,1000 - 1499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,1500 - 1999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,2000 - 2499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,2500 - 2999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,3000 - 3499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,3500 - 3999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,4000 - 5999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91125,Unreliable/Unknown,0,11/10/2025
+Birth,2020,Place of Residence,91126,500 - 999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,1000 - 1499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,1500 - 1999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,2000 - 2499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,2500 - 2999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,3000 - 3499 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,3500 - 3999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,4000 - 5999 grams,0,11/10/2025
+Birth,2020,Place of Residence,91126,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91101,500 - 999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91101,1000 - 1499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91101,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91101,2000 - 2499 grams,11,11/10/2025
+Birth,2019,Place of Residence,91101,2500 - 2999 grams,56,11/10/2025
+Birth,2019,Place of Residence,91101,3000 - 3499 grams,98,11/10/2025
+Birth,2019,Place of Residence,91101,3500 - 3999 grams,64,11/10/2025
+Birth,2019,Place of Residence,91101,4000 - 5999 grams,14,11/10/2025
+Birth,2019,Place of Residence,91101,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91103,500 - 999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91103,1000 - 1499 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91103,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91103,2000 - 2499 grams,15,11/10/2025
+Birth,2019,Place of Residence,91103,2500 - 2999 grams,56,11/10/2025
+Birth,2019,Place of Residence,91103,3000 - 3499 grams,114,11/10/2025
+Birth,2019,Place of Residence,91103,3500 - 3999 grams,54,11/10/2025
+Birth,2019,Place of Residence,91103,4000 - 5999 grams,14,11/10/2025
+Birth,2019,Place of Residence,91103,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91104,500 - 999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91104,1000 - 1499 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91104,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91104,2000 - 2499 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91104,2500 - 2999 grams,52,11/10/2025
+Birth,2019,Place of Residence,91104,3000 - 3499 grams,160,11/10/2025
+Birth,2019,Place of Residence,91104,3500 - 3999 grams,101,11/10/2025
+Birth,2019,Place of Residence,91104,4000 - 5999 grams,23,11/10/2025
+Birth,2019,Place of Residence,91104,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91105,500 - 999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91105,1000 - 1499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91105,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91105,2000 - 2499 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91105,2500 - 2999 grams,22,11/10/2025
+Birth,2019,Place of Residence,91105,3000 - 3499 grams,49,11/10/2025
+Birth,2019,Place of Residence,91105,3500 - 3999 grams,39,11/10/2025
+Birth,2019,Place of Residence,91105,4000 - 5999 grams,12,11/10/2025
+Birth,2019,Place of Residence,91105,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91106,500 - 999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91106,1000 - 1499 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91106,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91106,2000 - 2499 grams,15,11/10/2025
+Birth,2019,Place of Residence,91106,2500 - 2999 grams,63,11/10/2025
+Birth,2019,Place of Residence,91106,3000 - 3499 grams,118,11/10/2025
+Birth,2019,Place of Residence,91106,3500 - 3999 grams,68,11/10/2025
+Birth,2019,Place of Residence,91106,4000 - 5999 grams,17,11/10/2025
+Birth,2019,Place of Residence,91106,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91107,500 - 999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91107,1000 - 1499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91107,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91107,2000 - 2499 grams,15,11/10/2025
+Birth,2019,Place of Residence,91107,2500 - 2999 grams,62,11/10/2025
+Birth,2019,Place of Residence,91107,3000 - 3499 grams,137,11/10/2025
+Birth,2019,Place of Residence,91107,3500 - 3999 grams,103,11/10/2025
+Birth,2019,Place of Residence,91107,4000 - 5999 grams,24,11/10/2025
+Birth,2019,Place of Residence,91107,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91108,500 - 999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91108,1000 - 1499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91108,1500 - 1999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91108,2000 - 2499 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91108,2500 - 2999 grams,11,11/10/2025
+Birth,2019,Place of Residence,91108,3000 - 3499 grams,33,11/10/2025
+Birth,2019,Place of Residence,91108,3500 - 3999 grams,19,11/10/2025
+Birth,2019,Place of Residence,91108,4000 - 5999 grams,<11,11/10/2025
+Birth,2019,Place of Residence,91108,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91125,500 - 999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,1000 - 1499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,1500 - 1999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,2000 - 2499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,2500 - 2999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,3000 - 3499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,3500 - 3999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,4000 - 5999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91125,Unreliable/Unknown,0,11/10/2025
+Birth,2019,Place of Residence,91126,500 - 999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,1000 - 1499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,1500 - 1999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,2000 - 2499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,2500 - 2999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,3000 - 3499 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,3500 - 3999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,4000 - 5999 grams,0,11/10/2025
+Birth,2019,Place of Residence,91126,Unreliable/Unknown,0,11/10/2025
+Birth,2018,Place of Residence,91101,500 - 999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91101,1000 - 1499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91101,1500 - 1999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91101,2000 - 2499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91101,2500 - 2999 grams,49,11/10/2025
+Birth,2018,Place of Residence,91101,3000 - 3499 grams,98,11/10/2025
+Birth,2018,Place of Residence,91101,3500 - 3999 grams,79,11/10/2025
+Birth,2018,Place of Residence,91101,4000 - 5999 grams,17,11/10/2025
+Birth,2018,Place of Residence,91101,Unreliable/Unknown,<11,11/10/2025
+Birth,2018,Place of Residence,91103,500 - 999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91103,1000 - 1499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91103,1500 - 1999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91103,2000 - 2499 grams,17,11/10/2025
+Birth,2018,Place of Residence,91103,2500 - 2999 grams,60,11/10/2025
+Birth,2018,Place of Residence,91103,3000 - 3499 grams,135,11/10/2025
+Birth,2018,Place of Residence,91103,3500 - 3999 grams,67,11/10/2025
+Birth,2018,Place of Residence,91103,4000 - 5999 grams,18,11/10/2025
+Birth,2018,Place of Residence,91103,Unreliable/Unknown,<11,11/10/2025
+Birth,2018,Place of Residence,91104,500 - 999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91104,1000 - 1499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91104,1500 - 1999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91104,2000 - 2499 grams,17,11/10/2025
+Birth,2018,Place of Residence,91104,2500 - 2999 grams,58,11/10/2025
+Birth,2018,Place of Residence,91104,3000 - 3499 grams,135,11/10/2025
+Birth,2018,Place of Residence,91104,3500 - 3999 grams,87,11/10/2025
+Birth,2018,Place of Residence,91104,4000 - 5999 grams,30,11/10/2025
+Birth,2018,Place of Residence,91104,Unreliable/Unknown,0,11/10/2025
+Birth,2018,Place of Residence,91105,500 - 999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91105,1000 - 1499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91105,1500 - 1999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91105,2000 - 2499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91105,2500 - 2999 grams,21,11/10/2025
+Birth,2018,Place of Residence,91105,3000 - 3499 grams,46,11/10/2025
+Birth,2018,Place of Residence,91105,3500 - 3999 grams,34,11/10/2025
+Birth,2018,Place of Residence,91105,4000 - 5999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91105,Unreliable/Unknown,<11,11/10/2025
+Birth,2018,Place of Residence,91106,500 - 999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91106,1000 - 1499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91106,1500 - 1999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91106,2000 - 2499 grams,11,11/10/2025
+Birth,2018,Place of Residence,91106,2500 - 2999 grams,62,11/10/2025
+Birth,2018,Place of Residence,91106,3000 - 3499 grams,118,11/10/2025
+Birth,2018,Place of Residence,91106,3500 - 3999 grams,71,11/10/2025
+Birth,2018,Place of Residence,91106,4000 - 5999 grams,13,11/10/2025
+Birth,2018,Place of Residence,91106,Unreliable/Unknown,0,11/10/2025
+Birth,2018,Place of Residence,91107,500 - 999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91107,1000 - 1499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91107,1500 - 1999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91107,2000 - 2499 grams,20,11/10/2025
+Birth,2018,Place of Residence,91107,2500 - 2999 grams,74,11/10/2025
+Birth,2018,Place of Residence,91107,3000 - 3499 grams,138,11/10/2025
+Birth,2018,Place of Residence,91107,3500 - 3999 grams,84,11/10/2025
+Birth,2018,Place of Residence,91107,4000 - 5999 grams,22,11/10/2025
+Birth,2018,Place of Residence,91107,Unreliable/Unknown,0,11/10/2025
+Birth,2018,Place of Residence,91108,500 - 999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91108,1000 - 1499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91108,1500 - 1999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91108,2000 - 2499 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91108,2500 - 2999 grams,22,11/10/2025
+Birth,2018,Place of Residence,91108,3000 - 3499 grams,26,11/10/2025
+Birth,2018,Place of Residence,91108,3500 - 3999 grams,16,11/10/2025
+Birth,2018,Place of Residence,91108,4000 - 5999 grams,<11,11/10/2025
+Birth,2018,Place of Residence,91108,Unreliable/Unknown,0,11/10/2025
+Birth,2018,Place of Residence,91125,500 - 999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,1000 - 1499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,1500 - 1999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,2000 - 2499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,2500 - 2999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,3000 - 3499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,3500 - 3999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,4000 - 5999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91125,Unreliable/Unknown,0,11/10/2025
+Birth,2018,Place of Residence,91126,500 - 999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,1000 - 1499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,1500 - 1999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,2000 - 2499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,2500 - 2999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,3000 - 3499 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,3500 - 3999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,4000 - 5999 grams,0,11/10/2025
+Birth,2018,Place of Residence,91126,Unreliable/Unknown,0,11/10/2025
