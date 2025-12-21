@@ -1,0 +1,7 @@
+Metric,Value
+R² Score,0.23528914197150197
+MAE (percentage points),2.3912372549198597
+RMSE (percentage points),4.805547771857747
+5-Fold CV R² Mean,0.4103399636808562
+5-Fold CV R² Std,0.17965195468284723
+Improvement over Baseline R²,0.12304874435182

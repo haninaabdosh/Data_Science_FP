@@ -1,0 +1,5 @@
+Analysis_Step,Details
+Data Overview,243 ZIP codes × 5 features; Target: LBW_Rate (0.00% to 30.46%)
+Model Building,"4 models built: Baseline (Insurance only), Random Forest, XGBoost, Gradient Boosting"
+Performance,Best Model: Random Forest with R² = 0.3210 (Improvement: +0.2088)
+Key Findings,Primary predictor: health_insurance_coverage_pop (58.2% avg importance)

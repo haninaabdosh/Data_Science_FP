@@ -1,0 +1,6 @@
+Feature,Random_Forest_Importance_%,XGBoost_Importance_%,Gradient_Boosting_Importance_%,Average_Importance_%,Rank_by_Average
+health_insurance_coverage_pop,61.76,36.51,76.25,58.1733327738444,1
+poverty_rate,21.79,25.48,12.23,19.83333318074544,2
+diesel_poverty_interaction,7.12,15.55,6.79,9.820000063578288,3
+avg_diesel_pm,5.1,13.03,3.47,7.199999910990397,4
+avg_traffic_pct,4.22,9.44,1.26,4.9733331934611,5
