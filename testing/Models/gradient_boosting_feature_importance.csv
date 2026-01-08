@@ -1,0 +1,6 @@
+Feature,Importance,Percent,Rank
+health_insurance_coverage_pop,0.7625122429072083,76.25,1
+poverty_rate,0.12231696546173518,12.23,2
+diesel_poverty_interaction,0.06790433263436063,6.79,4
+avg_diesel_pm,0.034704969582852845,3.47,3
+avg_traffic_pct,0.012561489413842976,1.26,5
