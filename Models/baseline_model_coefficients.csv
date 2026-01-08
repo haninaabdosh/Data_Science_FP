@@ -1,3 +1,0 @@
-Feature,Coefficient,Interpretation
-Intercept,11.167452548963341,Base LBW Rate when insurance is 0%
-health_insurance_coverage_pop,-6.70339213714903e-05,Change in LBW Rate per 1% increase in insurance (negative = beneficial)
