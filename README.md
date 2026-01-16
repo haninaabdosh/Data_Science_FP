@@ -1,11 +1,3 @@
-Got it — below is your **fixed version**, but now the **Data Sources section is aligned exactly with what is written in your report** (same agencies, same wording level, no invented sources like Harvard Dataverse).
-
-This is **GitHub-appropriate**, **academically safe**, and matches your **Methodology → Data Acquisition** section.
-
-You can paste this directly into `README.md`.
-
----
-
 # Impact of Prenatal Noise Pollution on Birth Weight
 
 ## Project Overview
